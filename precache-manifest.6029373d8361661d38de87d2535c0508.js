@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "04ea4326f747ff03a635dff5433f8d64",
+    "revision": "f527c897fd963431357505e35892eef8",
     "url": "/dpef-react/index.html"
   },
   {
-    "revision": "ab8960d3fef5a469e2c5",
+    "revision": "13ae4d8768331719e7b7",
     "url": "/dpef-react/static/css/main.c09d8ee7.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dpef-react/static/js/2.93c418f4.chunk.js"
   },
   {
-    "revision": "ab8960d3fef5a469e2c5",
-    "url": "/dpef-react/static/js/main.026e0e1f.chunk.js"
+    "revision": "13ae4d8768331719e7b7",
+    "url": "/dpef-react/static/js/main.2bae82bf.chunk.js"
   },
   {
     "revision": "d92407877d1fd1f9672e",
